@@ -1,6 +1,6 @@
 ### Hi, I'm Julian
 
-PhD at CREED, University of Amsterdam. I run economics experiments on people (they consent, and they get paid).
+PhD candidate in Behavioural Economics at CREED, University of Amsterdam. I study how reputation concerns shape communication, like giving advice, admitting mistakes or sharing political opinions, and I like taking the same methods to behaviour with an environmental side.
 
 - **Website:** [juliantait.eu](https://juliantait.eu), for research, teaching and the CV.
 - **oTree Lab Launcher:** runs your oTree study in a physical lab with one click, so the session doesn't open with thirty PCs and a lot of swearing. [More here](https://juliantait.eu/otree-lab-launcher.html).

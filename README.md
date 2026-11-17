@@ -4,4 +4,5 @@ PhD candidate in Behavioural Economics at CREED, University of Amsterdam. I stud
 
 - **Website:** [juliantait.eu](https://juliantait.eu), for research, teaching and the CV.
 - **oTree Lab Launcher:** runs your oTree study in a physical lab with one click, so the session doesn't open with thirty PCs and a lot of swearing. [More here](https://juliantait.eu/otree-lab-launcher.html).
+- **Crag-ference:** going to a conference and want to climb? See who else is and team up. [Find a partner](https://juliantait.eu/climbing.html).
 - **Email:** j.tait@uva.nl
